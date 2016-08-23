@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/sofroniew/experiment-stream-2choice-2afc/issues"
   },
-  "homepage": "https://github.com/sofroniew/experiment-stream-2choice-2afc#readme"
+  "homepage": "https://github.com/sofroniew/experiment-stream-2choice-2afc#readme",
+  "dependencies": {
+    "through2": "^2.0.1"
+  },
+  "devDependencies": {
+    "device-stream-2choice-stdin": "^1.0.1"
+  }
 }
