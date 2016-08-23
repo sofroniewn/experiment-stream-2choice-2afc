@@ -1,0 +1,25 @@
+{
+  "name": "experiment-stream-2choice-2afc",
+  "version": "0.0.0",
+  "description": "Through stream for running a 2AFC experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofroniew/experiment-stream-2choice-2afc.git"
+  },
+  "keywords": [
+    "experiment",
+    "stream",
+    "2choice",
+    "2afc"
+  ],
+  "author": "Nicholas Sofroniew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sofroniew/experiment-stream-2choice-2afc/issues"
+  },
+  "homepage": "https://github.com/sofroniew/experiment-stream-2choice-2afc#readme"
+}
