@@ -9,7 +9,7 @@ This module returns a through stream that compares the button press to led state
 
 
 ## Usage
-`js
+```js
 var experiment = require('experiment-stream-2choice-2afc')
 var device = require('device-stream-2choice-stdin').createStream()
 
@@ -29,7 +29,7 @@ device.write(initial)
 var results = device.pipe(expt)
 results.on('data', console.log)
 results.pipe(device)
-`
+```
 
 ## API
 
