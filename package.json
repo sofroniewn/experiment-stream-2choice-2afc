@@ -1,6 +1,6 @@
 {
   "name": "experiment-stream-2choice-2afc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Through stream for running a 2AFC experiment",
   "main": "index.js",
   "scripts": {
